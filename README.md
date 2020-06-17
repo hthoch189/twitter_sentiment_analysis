@@ -1,10 +1,6 @@
-# Twitter Sentiment Analysis, SF CA
+# Twitter Sentiment Analysis, Girls in Tech CODE G Level II bootcamp capstone
 
-A capstone project for the weeklong Girls in Tech CODE G Level II workshop. 
-
-Program: The CODE G: Level II bootcamp consists of immersive 40-hour, five-day courses conducted in person for face-to-face mentorship with instructors. These courses are a mix of instruction, coding, experimentation, and deployment of original creations. The first three days will go over the essentials in web development for Python, such as templating, handling requests and sessions, databases and RESTful web APIs. The last two days will teach best practices for writing maintainable code as well as tips and ticks for deploying code to production, the organization explained.
-
-
+The CODE G: Level II bootcamp consists of immersive 40-hour, five-day courses conducted in person for face-to-face mentorship with instructors. These courses are a mix of instruction, coding, experimentation, and deployment of original creations. The first three days will go over the essentials in web development for Python, such as templating, handling requests and sessions, databases and RESTful web APIs. The last two days will teach best practices for writing maintainable code as well as tips and ticks for deploying code to production, the organization explained.
 
 - python essentials
 - web development inside Flask
