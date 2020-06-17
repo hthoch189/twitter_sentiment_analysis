@@ -11,4 +11,4 @@ Program: The CODE G: Level II bootcamp consists of immersive 40-hour, five-day c
 - creating databases inside SQLAlchemy
 - deploying Python code in cloud environments
 
-The project was featured in [CISONs' PrWeb] (https://www.prweb.com/releases/girls_in_tech_announces_new_program_code_g_level_ii_in_python/prweb16100475.html)
+The project was featured in [CISONs' PrWeb ](https://www.prweb.com/releases/girls_in_tech_announces_new_program_code_g_level_ii_in_python/prweb16100475.htm)
